@@ -1,4 +1,4 @@
-# Katherine AAvila
+# Katherine Avila
 ## Hola 👋
 
 Estoy iniciándome en este fascinante mundo. Aquí podrás conocer un poco más sobre mí, mis intereses y los proyectos en los que estoy trabajando.
