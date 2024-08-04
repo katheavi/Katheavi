@@ -1,5 +1,5 @@
 # Katherine AAvila
-### Hola 😊
+## Hola 👋
 
 Estoy iniciándome en este fascinante mundo. Aquí podrás conocer un poco más sobre mí, mis intereses y los proyectos en los que estoy trabajando.
 
@@ -7,7 +7,7 @@ Estoy iniciándome en este fascinante mundo. Aquí podrás conocer un poco más 
 - 👯 Busco colaborar en **proyectos de código abierto**.
 - 🤔 Me interesa aprender sobre **desarrollo web**.
   
-A medida que vaya avanzando, iré mostrando mis conocimientos y proyectos en este repositorio.
+ A medida que vaya avanzando, iré mostrando mis conocimientos y proyectos en este repositorio.
 
 ## Habilidades
 
